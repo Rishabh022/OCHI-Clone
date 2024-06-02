@@ -7,9 +7,9 @@ This repository contains a UI clone of the OCHI website, built using React and V
 You can view a live demo of the project [here](https://rishabh022.github.io/OCHI-Clone/).
 
 ## Features
-UI Clone of the OCHI website
-Responsive design to ensure compatibility across various devices and screen sizes
-Built using React and Vite for fast development and optimized performance
+* UI Clone of the OCHI website
+* Responsive design to ensure compatibility across various devices and screen sizes
+* Built using React and Vite for fast development and optimized performance
 
 ## Technologies Used
 * React
